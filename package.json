@@ -9,7 +9,6 @@
     "test": "playwright test"
   },
   "volta": {
-    "node": "18.17.1",
-    "yarn": "4.0.2"
+    "node": "20.13.0"
   }
 }
